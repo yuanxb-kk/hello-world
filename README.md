@@ -1,2 +1,2 @@
 # hello-world
-第一个github_Repository哦...
+第一个github_Repository
